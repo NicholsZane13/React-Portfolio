@@ -2,19 +2,19 @@ export default [
     {
     title: 'Code-Net',
     imgUrl: '',
-    stack: ['HTML', 'CSS', 'JavaScript', 'Handlebars'],
+    stack: [ 'HTML', 'CSS', 'JavaScript', 'Handlebars' ],
     link: 'https://protected-wave-25502.herokuapp.com/signup/user'
     },
     {
     title: 'Movie-Buffs',
     imgUrl: '',
-    stack: ['HTML', 'CSS', 'JavaScript'],
+    stack: [ 'HTML', 'CSS', 'JavaScript' ],
     link: 'https://romx10.github.io/Movie-Buffs/'
     },
     {
     title: 'Developer Portfolio',
     imgUrl: '',
-    stack: ['HTML', 'CSS', 'JavaScript'],
+    stack: [ 'React', 'Tailwind', 'Vite' ],
     link: 'deployed site'
     },
 ]
