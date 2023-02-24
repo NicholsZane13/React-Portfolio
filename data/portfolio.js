@@ -1,7 +1,7 @@
 export default [
     {
     title: 'Code-Net',
-    imgUrl: '/assets/code-net.jpg',
+    imgUrl: '../public/assets/code-net.jpg',
     stack: [ 'HTML', 'CSS', 'JavaScript', 'Handlebars' ],
     link: 'https://protected-wave-25502.herokuapp.com/signup/user'
     },
@@ -15,6 +15,6 @@ export default [
     title: 'Developer Portfolio',
     imgUrl: '/assets/portfolio.png',
     stack: [ 'React', 'Tailwind', 'Vite' ],
-    link: 'deployed site'
+    link: 'https://nicholszane13.github.io/React-Portfolio/'
     },
 ]
