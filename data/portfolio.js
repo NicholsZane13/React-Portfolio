@@ -7,13 +7,13 @@ export default [
     },
     {
     title: 'Movie-Buffs',
-    imgUrl: '/assets/movie-buffs.png',
+    imgUrl: '../public/assets/movie-buffs.png',
     stack: [ 'HTML', 'CSS', 'JavaScript' ],
     link: 'https://romx10.github.io/Movie-Buffs/'
     },
     {
     title: 'Developer Portfolio',
-    imgUrl: '/assets/portfolio.png',
+    imgUrl: '../public/assets/portfolio.png',
     stack: [ 'React', 'Tailwind', 'Vite' ],
     link: 'https://nicholszane13.github.io/React-Portfolio/'
     },
