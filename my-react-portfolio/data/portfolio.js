@@ -13,7 +13,7 @@ export default [
     },
     {
     title: 'Developer Portfolio',
-    imgUrl: '',
+    imgUrl: '/assets/portfolio.png',
     stack: [ 'React', 'Tailwind', 'Vite' ],
     link: 'deployed site'
     },
