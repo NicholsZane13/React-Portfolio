@@ -1,6 +1,6 @@
 # Summary of Zane
 
-This is a simple React portfolio website that showcases my projects, provides information about me, and includes my contact information and resume.
+This is a simple React portfolio website that showcases my projects, provides information about me, and includes my contact information.
 
 ## Getting Started
 
