@@ -33,4 +33,4 @@ Zane Nichols
 
 ## Demo
 
-Here is a link to the deployed website https://nicholszane13.github.io/React-Portfolio/
+Here is a link to the deployed website https://nicholszane13.github.io/React-Portfolio/ ![Zane's Portfolio](/public/assets/portfolio.png "Zane's Portfolio")
